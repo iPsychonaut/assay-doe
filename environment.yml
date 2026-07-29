@@ -1,0 +1,12 @@
+name: assay-doe
+channels:
+ - conda-forge
+dependencies:
+ - python=3.12
+ - numpy
+ - pandas
+ - scipy
+ - statsmodels
+ - matplotlib
+ - pytest
+ - pip
